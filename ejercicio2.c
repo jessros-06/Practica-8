@@ -1,5 +1,5 @@
 /*Jesica Rosales Lopez
-laboratorio 10 programa 2*/
+laboratorio 8 programa 2*/
 
  #include <stdio.h> 
 int main() 
